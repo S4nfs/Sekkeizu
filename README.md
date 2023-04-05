@@ -6,7 +6,7 @@
 
 ## Packages
 
-For now, the repository contains five devtools, 25 backend and 17 frontend dependencies excluding dev
+For now, the repository contains five devtools, 27 backend and 17 frontend dependencies excluding dev
 
 ## Stack
 React, MongoDB Atlas, Redux, Vite, Docker, TailwindCSS, Graphql, Redux Toolkit, RTK Query, Axios, NodeJS, Express, Passport.
