@@ -21,7 +21,8 @@ Take a look at the board to have visibility of the Infrastructure roadmap:
 - [x] Linting Done
 - [x] Validation Completed
 - [x] Defining financial projections to partners 
-- [x] Watching Podcasts...
+- [x] Production scripts added
+- [x] Working on pitch deck
 - [x] Thinking...
 
 </samp>
