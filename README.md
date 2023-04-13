@@ -23,6 +23,9 @@ Take a look at the board to have visibility of the Infrastructure roadmap:
 - [x] Defining financial projections to partners 
 - [x] Production scripts added
 - [x] Working on pitch deck
-- [x] Thinking...
+- [x] Joined Secret Startup Academy
+- [x] Quitted coding for some days, working on mental health
+- [x] 0% motivation
+
 
 </samp>
