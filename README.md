@@ -24,8 +24,8 @@ Take a look at the board to have visibility of the Infrastructure roadmap:
 - [x] Production scripts added
 - [x] Working on pitch deck
 - [x] Joined Secret Startup Academy
-- [x] Quitted coding for some days, working on mental health
-- [x] 0% motivation
+- [x] Business Model done
+- [x] Thinking...
 
 
 </samp>
