@@ -30,11 +30,13 @@ Take a look at the board to have visibility of the Infrastructure roadmap:
 - [x] Onboarding user steps added
 - [ ] Implementing CSPs in the platform(1/3)
 - [x] AWS live pricing API added
+- [x] Cron Jobs added
+- [x] Credits based system added
 - [ ] AI/ML implementation Done 10%
+- [ ] Vnc support
 - [ ] Realtime Database driven architecture Done 10%
 - [ ] Cloud based vault to store secrets Done 90%
 - [ ] RBAC + ABAC IAM Done 20%
-
 
 
 </samp>
