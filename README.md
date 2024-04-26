@@ -28,23 +28,116 @@ Take a look at the board to have visibility of the Infrastructure roadmap:
 - [x] Joined NVIDIA Cloud Validated Ecosystem
 - [x] Added pre-authorization of Cards using Stripe API to avoid Bots & Spam
 - [x] Onboarding user steps added
-- [ ] Implementing CSPs in the platform(1/3)
+- [ ] Implementing CSPs in the platform(2/5)
 - [x] AWS live pricing API added
 - [x] Cron Jobs added
 - [x] Credits based system added
 - [x] DB migrations
-- [ ] In-house invoice generation to ditch stripe's 0.5%/invoice fee Done 80%
-- [ ] Serverless LLM implementation Done 10%
+- [ ] In-house invoice generation to ditch stripe's 0.5%/invoice fee Done 90%
+- [ ] AI implementation Done 10%
 - [ ] Vnc support
 - [ ] Realtime Database driven architecture Done 10%
 - [ ] Cloud based vault to store secrets Done 90%
 - [ ] Rewriting backend utilities with typescript Done 20%
 - [ ] Rewriting the RBAC + ABAC IAM again Done 10%
 - [ ] Analytics Admin Dashboard Done 50%
-- [ ] Logging Done 80%
+- [ ] Logging Done 90%
 - [x] Sent invites to customers for pilot run Done 10/100
 - [ ] Feedback component Done 90%
-- [ ] Dockerized environment Done 50%
+- [ ] Dockerized environment Done 0%
 - [ ] Trunk based Development CI/CD pipeline Done 0%
+- [ ] Startup Accelerator Partnerships Done 2/∞
+- [ ] Building Docs 90%
+- [ ] Discord Community
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ] Public Beta Launch
+- [ ] Incorporation
+- [ ] Achieve PMF
+- [ ] MRR Target $10,000
 
 </samp>
